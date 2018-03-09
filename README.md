@@ -5,7 +5,6 @@
 ### [https://mtinet.github.io/tech_2017](https://mtinet.github.io/tech_2017)
 ---
 
----
 #### 2018학년도 영등포고등학교 기술수업은 기존의 수업방식에서 한층 더 업그레이드 된 상태로 기록 및 공유하겠습니다.
 
 ---
