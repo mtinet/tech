@@ -13,4 +13,5 @@
 [2. 수업진도표](https://docs.google.com/spreadsheets/d/1Y4UdMS10-5NANqBnaJ6zahdKoBv2QZJrjM1S3dW5M2c/edit?usp=sharing)  
 
 ---
-## 수업관련자료  
+## 수업관련자료  
+업로드준비중  
