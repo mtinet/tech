@@ -14,4 +14,5 @@
 
 ---
 ## 수업관련자료  
-업로드준비중  
+[1학기 수행과정 자료](https://1drv.ms/x/s!AuczxMq8lCmfrwP9RUObAANyusyG)  
+
