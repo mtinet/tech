@@ -17,8 +17,8 @@
 ---
 ## 기술가정 수업관련자료  
 ### [수행과정 전체 흐름 확인](https://1drv.ms/x/s!AuczxMq8lCmfrwP9RUObAANyusyG)  
-### [문제 발견 및 해결책 근거마련 설문지 작성 및 배포](https://docs.google.com/spreadsheets/d/1YNMCE4oYHSxgur7ykOWARPjz9wqLgTg7ogbZAwP1K1o/edit?usp=sharing)  
-### [1학년 기술가정 수행평가 포트폴리오 링크](https://goo.gl/spgS83)  
+### [문제 발견 및 해결책 근거마련 설문지 작성 및 배포](https://goo.gl/spgS83)  
+### [1학년 기술가정 수행평가 포트폴리오 링크](https://goo.gl/t265cf)  
 
 ---
 ## 방과후 수업관련자료  
