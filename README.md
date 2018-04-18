@@ -17,10 +17,10 @@
 ---
 ## 기술가정 수업관련자료  
 ### [수행과정 전체 흐름 확인](https://1drv.ms/x/s!AuczxMq8lCmfrwP9RUObAANyusyG)  
-### [문제 발견 및 해결책 근거마련 설문지 작성 및 배포](https://goo.gl/spgS83)  
-### [1학년 기술가정 수행평가 포트폴리오 링크](https://goo.gl/t265cf)  
+### [설문지 작성 및 배포(문제 발견 및 해결책 근거마련)](https://goo.gl/spgS83)  
+### [포트폴리오 링크(기술가정수행평가)](https://goo.gl/t265cf)  
 
 ---
 ## 방과후 수업관련자료  
-### [Just Make!! 포트폴리오 링크](https://goo.gl/t265cf)  
+### [포트폴리오 링크(Just Make!!)](https://goo.gl/t265cf)  
 
