@@ -22,5 +22,5 @@
 
 ---
 ## 방과후 수업관련자료  
-### [포트폴리오 링크(Just Make!!)](https://goo.gl/t265cf)  
+### [포트폴리오 링크(Just Make!!)](https://goo.gl/K7QqCF)  
 
