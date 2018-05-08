@@ -28,3 +28,6 @@
 ## 메이커 교육 홈페이지 
 ### [메이커 교육 홈페이지 링크](https://sites.google.com/view/mtinet/%ED%99%88)
 
+---
+## 툴 선정 학습  
+### [툴 선정 학습 자료](https://goo.gl/KQvZLY)
